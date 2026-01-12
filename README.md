@@ -1,7 +1,7 @@
 # 🚀 Quantum Computing Project Suite
 
 *A comprehensive collection of 100 quantum computing implementations from beginner to expert level*
-![Quantum Imagae](https://github.com/dronabopche/100-ML-AI-Project/blob/main/Resources/QUANTUM.png)
+![Quantum Imagae](https://github.com/dronabopche/100-Quantum-Project/blob/main/Resources/QUANTUM.png)
 ![Quantum Computing](https://img.shields.io/badge/Quantum-Computing-blueviolet)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-green)
 ![Levels](https://img.shields.io/badge/Levels-Beginner%20to%20Expert-orange)
