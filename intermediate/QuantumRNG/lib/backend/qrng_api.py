@@ -3,13 +3,13 @@ from flask_cors import CORS
 import io
 import base64
 import matplotlib
-matplotlib.use('Agg')  # Use non-interactive backend
+matplotlib.use('Agg')  
 import matplotlib.pyplot as plt
 import numpy as np
 import sys
 import os
 
-# Add current directory to path
+
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 from qrng_core import QuantumRNG
