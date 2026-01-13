@@ -6,7 +6,7 @@ from typing import Dict, List
 class QRNGVisualizer:
     def __init__(self):
         self.fig_size = (12, 8)
-        plt.style.use('default')  # Use default style for compatibility
+        plt.style.use('default')
     
     def plot_distribution_comparison(self, quantum_counts: Dict, classical_bits: List[str], title: str = "Distribution Comparison"):
         """Compare quantum vs classical distribution"""
