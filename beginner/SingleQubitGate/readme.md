@@ -1,7 +1,3 @@
-Sure ✅
-Below is the complete README.md code.
-Just copy everything exactly as it is and save it as README.md in your GitHub repo.
-
 # 🧠 Single-Qubit Quantum Gates Simulation using Qiskit
 
 This project demonstrates the behavior of **single-qubit quantum gates** using **Qiskit**.  
@@ -124,11 +120,3 @@ This project is open-source and intended for educational purposes.
 ⭐ Acknowledgements
 	•	IBM Qiskit Documentation
 	•	Quantum Computing Community
-
-If you want, next I can:
-- Personalize it with **your name + college**
-- Add **badges (Python, Qiskit, Jupyter)**
-- Rewrite it to look **internship / research oriented**
-- Align it with **quantum lab record format**
-
-Just tell me 👍
