@@ -1,5 +1,3 @@
-![Quantum Imagae](https://github.com/dronabopche/100-Quantum-Project/blob/main/Resources/QUANTUM.png)
-
 *A comprehensive collection of 100 quantum computing implementations from beginner to expert level*
 
 ![Quantum Computing](https://img.shields.io/badge/Quantum-Computing-blueviolet)
@@ -20,6 +18,8 @@ This repository provides a complete hands-on learning path for quantum computing
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+
+![Quantum Imagae](https://github.com/dronabopche/100-Quantum-Project/blob/main/Resources/QUANTUM.png)
 
 ## Purpose
 
@@ -334,9 +334,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this project in your research or learning, please cite:
 
 ```bibtex
-@software{quantum_project_suite,
+@software{100-Quantum-Project,
   author = {Dronabopche},
-  title = {Quantum Computing Project Suite},
+  title = {100-Quantum-Project},
   year = {2024},
   url = {https://github.com/dronabopche/100-Quantum-Project}
 }
