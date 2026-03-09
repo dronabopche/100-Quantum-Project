@@ -22,7 +22,7 @@
 
 This repository provides a **complete hands-on learning path** for quantum computing, featuring 100 progressively challenging projects that take you from quantum basics to expert-level implementations. Perfect for students, researchers, and developers looking to master quantum computing through practical implementation.
 
-## 🎯 Learning Path
+##  Learning Path
 
 | Stage | Level | Focus Area | Skills Developed |
 |-------|-------|------------|------------------|
@@ -31,7 +31,8 @@ This repository provides a **complete hands-on learning path** for quantum compu
 | 🟣 **Advanced** | Advanced (51-75) | Quantum Algorithms | ML, optimization, error correction |
 | 🔴 **Expert** | Expert (76-100) | Quantum Systems | Hardware, compilation, networks |
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzllMXByenJhMTQzNWRoZmY4ZjN2N2s1Mm9mMjh6emVzempwZ3JxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" > 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxubnlsa2tscjdvM2FybmZpZXR2OHZ4amh2MHgxMG5ldzMxaGNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cLjz0QN9ZjCtSYD0TR/giphy.gif" > 
+
 ##  Project Levels
 
 ### 🟢 BEGINNER LEVEL (1-25) - *Quantum Fundamentals*
