@@ -31,8 +31,6 @@ This repository provides a **complete hands-on learning path** for quantum compu
 | 🟣 **Advanced** | Advanced (51-75) | Quantum Algorithms | ML, optimization, error correction |
 | 🔴 **Expert** | Expert (76-100) | Quantum Systems | Hardware, compilation, networks |
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxubnlsa2tscjdvM2FybmZpZXR2OHZ4amh2MHgxMG5ldzMxaGNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cLjz0QN9ZjCtSYD0TR/giphy.gif" > 
-
 ##  Project Levels
 
 ### 🟢 BEGINNER LEVEL (1-25) - *Quantum Fundamentals*
