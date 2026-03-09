@@ -1,4 +1,4 @@
-# 🚀 Quantum Computing Project Suite
+# Quantum Computing Project Suite
 
 *A comprehensive collection of 100 quantum computing implementations from beginner to expert level*
 ![Quantum Imagae](https://github.com/dronabopche/100-Quantum-Project/blob/main/Resources/QUANTUM.png)
@@ -7,18 +7,20 @@
 ![Levels](https://img.shields.io/badge/Levels-Beginner%20to%20Expert-orange)
 ![Projects](https://img.shields.io/badge/Projects-100-brightgreen)
 
-## 📋 Table of Contents
-- [🌟 Purpose](#-purpose)
-- [🎯 Learning Path](#-learning-path)
-- [🚀 Project Levels](#-project-levels)
-- [🛠️ Installation](#️-installation)
-- [💻 Quick Start](#-quick-start)
-- [📁 Project Structure](#-project-structure)
-- [🔬 Features](#-features)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
+<img src="https://giphy.com/gifs/Massivesci-massivesci-quantum-physics-dead-or-not-XbC8Uy0rEhdTtF6lVa" width="600">
 
-## 🌟 Purpose
+##  Table of Contents
+- [ Purpose](#-purpose)
+- [ Learning Path](#-learning-path)
+- [ Project Levels](#-project-levels)
+- [ Installation](#️-installation)
+- [ Quick Start](#-quick-start)
+- [ Project Structure](#-project-structure)
+- [ Features](#-features)
+- [ Contributing](#-contributing)
+- [ License](#-license)
+
+##  Purpose
 
 This repository provides a **complete hands-on learning path** for quantum computing, featuring 100 progressively challenging projects that take you from quantum basics to expert-level implementations. Perfect for students, researchers, and developers looking to master quantum computing through practical implementation.
 
@@ -31,7 +33,8 @@ This repository provides a **complete hands-on learning path** for quantum compu
 | 🟣 **Advanced** | Advanced (51-75) | Quantum Algorithms | ML, optimization, error correction |
 | 🔴 **Expert** | Expert (76-100) | Quantum Systems | Hardware, compilation, networks |
 
-## 🚀 Project Levels
+<img src="https://giphy.com/gifs/tezos-gogolitus-reality-simulator-device-vTr3WiTdqpL6GOT5mF" > 
+##  Project Levels
 
 ### 🟢 BEGINNER LEVEL (1-25) - *Quantum Fundamentals*
 
@@ -153,7 +156,7 @@ This repository provides a **complete hands-on learning path** for quantum compu
 | 99| **Quantum Advantage Demonstrator** | Show quantum advantage cases | Quantum advantage |
 | 100| **Full Quantum Stack Simulator** | Complete quantum computing simulation | Full-stack development |
 
-## 🛠️ Installation
+##  Installation
 
 ### Prerequisites
 - Python 3.8 or higher
@@ -180,7 +183,7 @@ pip install -r requirements.txt
 pip install numpy matplotlib scipy jupyter
 ```
 
-## 💻 Quick Start
+##  Quick Start
 
 ### Example 1: Basic Qubit Operations
 ```python
@@ -264,9 +267,9 @@ quantum-computing-suite/
     └── helpers.py            Helper functions
 ```
 
-## 🔬 Features
+##  Features
 
-### 🎨 Visualization
+###  Visualization
 - **Bloch Sphere**: 3D qubit state visualization
 - **Circuit Diagrams**: Text-based and graphical circuit representation
 - **Probability Plots**: Bar charts and histograms for measurement outcomes
@@ -290,7 +293,7 @@ quantum-computing-suite/
 - **Documentation**: Detailed explanations and examples
 - **API Reference**: Clean, well-documented code
 
-## 🤝 Contributing
+##  Contributing
 
 We welcome contributions from the quantum computing community! Here's how you can help:
 
@@ -314,11 +317,13 @@ We welcome contributions from the quantum computing community! Here's how you ca
 - Write unit tests for new features
 - Update documentation accordingly
 
-## 📜 License
+##  License
 
 This project is licensed under the North Eastern Hill University License - see the [LICENSE](LICENSE) file for details.
 
-## 🌟 Show Your Support
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWs3eWFjbWJ5eHpuYXNsMDRrbG4yeGNld2puMzFhbWF1YjhxdjRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwdQ1MU5VVwsN38vm/giphy.gif" > 
+
+##  Show Your Support
 
 If you find this project helpful, please give it a ⭐️ on GitHub!
 
@@ -333,9 +338,9 @@ If you find this project helpful, please give it a ⭐️ on GitHub!
 
 ### 📞 Connect With Us
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/yourusername/quantum-computing-suite)
-[![Issues](https://img.shields.io/badge/Report-Issues-red?logo=github)](https://github.com/yourusername/quantum-computing-suite/issues)
-[![Discussions](https://img.shields.io/badge/Join-Discussions-green?logo=github)](https://github.com/yourusername/quantum-computing-suite/discussions)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/dronabopche/100-Quantum-Project)
+[![Issues](https://img.shields.io/badge/Report-Issues-red?logo=github)](https://github.com/dronabopche/100-Quantum-Project/issues)
+[![Discussions](https://img.shields.io/badge/Join-Discussions-green?logo=github)](https://github.com/dronabopche/100-Quantum-Project/discussion)
 
 **Let's explore the quantum realm together!** 🌌
 
