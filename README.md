@@ -7,8 +7,6 @@
 ![Levels](https://img.shields.io/badge/Levels-Beginner%20to%20Expert-orange)
 ![Projects](https://img.shields.io/badge/Projects-100-brightgreen)
 
-<img src="https://giphy.com/gifs/Massivesci-massivesci-quantum-physics-dead-or-not-XbC8Uy0rEhdTtF6lVa" width="600">
-
 ##  Table of Contents
 - [ Purpose](#-purpose)
 - [ Learning Path](#-learning-path)
@@ -33,7 +31,7 @@ This repository provides a **complete hands-on learning path** for quantum compu
 | 🟣 **Advanced** | Advanced (51-75) | Quantum Algorithms | ML, optimization, error correction |
 | 🔴 **Expert** | Expert (76-100) | Quantum Systems | Hardware, compilation, networks |
 
-<img src="https://giphy.com/gifs/tezos-gogolitus-reality-simulator-device-vTr3WiTdqpL6GOT5mF" > 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzllMXByenJhMTQzNWRoZmY4ZjN2N2s1Mm9mMjh6emVzempwZ3JxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTr3WiTdqpL6GOT5mF/giphy.gif" > 
 ##  Project Levels
 
 ### 🟢 BEGINNER LEVEL (1-25) - *Quantum Fundamentals*
