@@ -165,67 +165,10 @@ This repository provides a **complete hands-on learning path** for quantum compu
 git clone https://github.com/dronabopche/100-Quantum-Project.git
 cd 100-Quantum-Project
 
-# Create virtual environment
-python -m venv quantum_env
-source quantum_env/bin/activate  # Linux/Mac
-# OR
-quantum_env\Scripts\activate    # Windows
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ### Required Packages
 ```bash
 pip install numpy matplotlib scipy jupyter
 ```
-
-##  Quick Start
-
-### Example 1: Basic Qubit Operations
-```python
-from beginner.single_qubit import Qubit
-
-# Create and manipulate a qubit
-qubit = Qubit()
-print(f"Initial state: {qubit.state}")
-
-# Apply Hadamard gate to create superposition
-qubit.h_gate()
-print(f"After H gate: {qubit.state}")
-
-# Measure the qubit
-result = qubit.measure()
-print(f"Measurement result: {result}")
-```
-
-### Example 2: Quantum Circuit
-```python
-from intermediate.quantum_circuit import QuantumCircuit
-
-# Create a 2-qubit circuit
-qc = QuantumCircuit(2)
-
-# Apply gates
-qc.h(0)          # Hadamard on qubit 0
-qc.cx(0, 1)      # CNOT between qubit 0 and 1
-
-# Simulate and get results
-state = qc.simulate()
-print(f"Final state: {state}")
-```
-
-### Example 3: Quantum Algorithm
-```python
-from advanced.grover_search import Grover
-
-# Search for element '11' in 2-qubit space
-grover = Grover(2, target='11')
-result = grover.search()
-
-print(f"Found solution with probability: {result['probability']}")
-```
-
 ## 📁 Project Structure
 
 ```
@@ -263,32 +206,6 @@ quantum-computing-suite/
     ├── visualization.py      # Plotting functions
     └── helpers.py            Helper functions
 ```
-
-##  Features
-
-###  Visualization
-- **Bloch Sphere**: 3D qubit state visualization
-- **Circuit Diagrams**: Text-based and graphical circuit representation
-- **Probability Plots**: Bar charts and histograms for measurement outcomes
-- **State Evolution**: Animated state transformations
-
-### ⚡ Simulation
-- **Perfect Simulation**: Noiseless quantum computation
-- **Noise Models**: Depolarizing, amplitude damping, phase damping
-- **Error Correction**: Various quantum error correction codes
-- **Hardware Simulation**: Specific quantum processor models
-
-### 📊 Analysis
-- **Algorithm Benchmarking**: Performance comparison
-- **Resource Estimation**: Qubit and gate counts
-- **Fidelity Calculation**: State and process fidelity
-- **Complexity Analysis**: Time and space requirements
-
-### 🔧 Development
-- **Modular Design**: Easy to extend and modify
-- **Comprehensive Testing**: Unit tests for all components
-- **Documentation**: Detailed explanations and examples
-- **API Reference**: Clean, well-documented code
 
 ##  Contributing
 
