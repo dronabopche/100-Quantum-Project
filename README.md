@@ -2,9 +2,9 @@
 
 *A comprehensive collection of 100 quantum computing implementations from beginner to expert level*
 ![Quantum Imagae](https://github.com/dronabopche/100-Quantum-Project/blob/main/00_Resources/QUANTUM.png)
-![Quantum Computing](https://img.shields.io/badge/Quantum-Computing-blueviolet)
-![Python](https://img.shields.io/badge/Python-3.8%2B-green)
-![Levels](https://img.shields.io/badge/Levels-Beginner%20to%20Expert-orange)
+![Quantum Computing](https://img.shields.io/badge/Quantum-Computing-yellow)
+![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)
+![Levels](https://img.shields.io/badge/Levels-Beginner%20to%20Expert-yellow)
 ![Projects](https://img.shields.io/badge/Projects-100-brightgreen)
 
 ##  Table of Contents
@@ -282,7 +282,7 @@ This project is licensed under the North Eastern Hill University License - see t
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWs3eWFjbWJ5eHpuYXNsMDRrbG4yeGNld2puMzFhbWF1YjhxdjRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwdQ1MU5VVwsN38vm/giphy.gif" > 
 
 
-**Happy Quantum Coding!** 🎉
+**Happy Quantum Coding!** 
 
 *"If you think you understand quantum mechanics, you don't understand quantum mechanics." - Richard Feynman*
 
@@ -295,6 +295,6 @@ This project is licensed under the North Eastern Hill University License - see t
 [![Issues](https://img.shields.io/badge/Report-Issues-red?logo=github)](https://github.com/dronabopche/100-Quantum-Project/issues)
 [![Discussions](https://img.shields.io/badge/Join-Discussions-green?logo=github)](https://github.com/dronabopche/100-Quantum-Project/discussion)
 
-**Let's explore the quantum realm together!** 🌌
+**Let's explore the quantum realm together!** 
 
 </div>
