@@ -33,7 +33,7 @@ This repository provides a **complete hands-on learning path** for quantum compu
 
 ##  Project Levels
 
-### 🟢 BEGINNER LEVEL (1-25) - *Quantum Fundamentals*
+### BEGINNER LEVEL (1-25) - *Quantum Fundamentals*
 
 | # | Project | Description | Key Skills |
 |---|---------|-------------|------------|
@@ -63,7 +63,7 @@ This repository provides a **complete hands-on learning path** for quantum compu
 | 24| **Quantum Purity Checker** | Check pure/mixed states | Density matrices |
 | 25| **Basic Decoherence Simulator** | Simulate quantum noise | Real-world effects |
 
-### 🔵 INTERMEDIATE LEVEL (26-50) - *Multi-Qubit Systems & Algorithms*
+### INTERMEDIATE LEVEL (26-50) - *Multi-Qubit Systems & Algorithms*
 
 | # | Project | Description | Key Skills |
 |---|---------|-------------|------------|
@@ -93,7 +93,7 @@ This repository provides a **complete hands-on learning path** for quantum compu
 | 49| **Resource Estimator** | Count qubits and gates | Resource analysis |
 | 50| **Algorithm Benchmarker** | Compare algorithm performance | Performance analysis |
 
-### 🟣 ADVANCED LEVEL (51-75) - *Quantum Algorithms & Applications*
+### ADVANCED LEVEL (51-75) - *Quantum Algorithms & Applications*
 
 | # | Project | Description | Key Skills |
 |---|---------|-------------|------------|
@@ -123,7 +123,7 @@ This repository provides a **complete hands-on learning path** for quantum compu
 | 74| **Quantum Cryptography Simulator** | Simulate BB84 protocol | Cryptography |
 | 75| **Quantum Error Correction Code** | Implement basic error correction | Error correction |
 
-### 🔴 EXPERT LEVEL (76-100) - *Quantum Hardware & Systems*
+### EXPERT LEVEL (76-100) - *Quantum Hardware & Systems*
 
 | # | Project | Description | Key Skills |
 |---|---------|-------------|------------|
@@ -153,83 +153,127 @@ This repository provides a **complete hands-on learning path** for quantum compu
 | 99| **Quantum Advantage Demonstrator** | Show quantum advantage cases | Quantum advantage |
 | 100| **Full Quantum Stack Simulator** | Complete quantum computing simulation | Full-stack development |
 
-##  Installation
-
-### Prerequisites
-- Python 3.8 or higher
-- Basic understanding of linear algebra and quantum mechanics
-
-### Quick Setup
-```bash
-# Clone the repository
-git clone https://github.com/dronabopche/100-Quantum-Project.git
-cd 100-Quantum-Project
-
-### Required Packages
-```bash
-pip install numpy matplotlib scipy jupyter
-```
 ## 📁 Project Structure
 
 ```
+
 quantum-computing-suite/
 │
-├── beginner/                   # Levels 1-25
-│   ├── single_qubit/          # Single qubit operations
-│   ├── basic_gates/           # Quantum gates
-│   ├── visualization/         # State visualization
-│   └── measurement/           # Measurement simulations
+├── XX_Category/                          
+│   ├── XXX_Project_Name/
+│   │   ├── notebook.ipynb
+│   │   ├── README.md
+│   │   ├── resources/
+│   │   │   ├── references.md
+│   │   │   └── datasets/ (optional)
+│   │   └── research_paper/
+│   │       └── paper.pdf / notes.md
 │
-├── intermediate/              # Levels 26-50
-│   ├── multi_qubit/          # Multi-qubit systems
-│   ├── entanglement/         # Entanglement operations
-│   ├── algorithms/           # Basic algorithms
-│   └── circuits/             # Circuit design
-│
-├── advanced/                  # Levels 51-75
-│   ├── quantum_ml/           # Quantum machine learning
-│   ├── optimization/         # Optimization algorithms
-│   ├── error_correction/     # Error correction
-│   └── applications/         # Real-world applications
-│
-├── expert/                    # Levels 76-100
-│   ├── hardware/             # Hardware simulation
-│   ├── compilation/          # Compiler and transpiler
-│   ├── networks/             # Quantum networks
-│   └── systems/              # Quantum systems
-│
-├── examples/                  # Usage examples
-├── tests/                     # Test suites
-├── docs/                      # Documentation
-└── utils/                     # Common utilities
-    ├── quantum_math.py       # Math utilities
-    ├── visualization.py      # Plotting functions
-    └── helpers.py            Helper functions
+└── README.md                          # Root documentation
 ```
+---
 
-##  Contributing
+## Contributing
 
-We welcome contributions from the quantum computing community! Here's how you can help:
+We welcome contributions from the quantum computing community. To ensure consistency, quality, and proper review, please follow the structured contribution guidelines below.
 
 ### Ways to Contribute
-1. **Implement New Projects**: Add missing quantum algorithms
-2. **Improve Documentation**: Enhance explanations and examples
-3. **Optimize Code**: Improve performance and efficiency
-4. **Add Tests**: Expand test coverage
-5. **Fix Bugs**: Identify and resolve issues
+
+1. **Implement New Projects**: Add missing quantum algorithms or extend existing ones
+2. **Improve Documentation**: Enhance explanations, clarity, and examples
+3. **Optimize Code**: Improve performance, readability, and efficiency
+4. **Add Tests**: Increase test coverage and robustness
+5. **Fix Bugs**: Identify, document, and resolve issues
+
+---
 
 ### Contribution Process
+
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+2. Create a feature branch
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+3. Make your changes following the project structure and coding standards
+4. Commit your changes
+
+   ```bash
+   git commit -m "Describe your changes clearly"
+   ```
+5. Push to your branch
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+6. Open a Pull Request (PR) using the required format below
+
+---
+
+### Pull Request (PR) Format (Mandatory)
+
+Every Pull Request must include the following details:
+
+**1. Description of Changes**
+Clearly describe what you have implemented, modified, or fixed.
+
+**2. AI Assistance Disclosure**
+State whether AI tools were used:
+
+* Yes / No
+* If yes, briefly mention how they were used
+
+**3. Justification / Usefulness**
+Explain why this contribution is valuable to the project.
+Focus on impact, learning value, or performance improvement.
+
+**4. Contributor Details**
+
+* Name
+* (Optional) GitHub profile or contact
+
+---
+
+### Example PR Template
+
+```markdown
+### Description of Changes
+Implemented Quantum Fourier Transform with optimized gate decomposition.
+
+### AI Assistance Disclosure
+Yes – Used AI for initial structure and debugging assistance.
+
+### Justification / Usefulness
+This improves the efficiency of QFT implementation and provides a clearer learning resource for intermediate users.
+
+### Contributor
+Name: Drona Bopche
+GitHub: dronabopche
+```
+
+---
 
 ### Coding Standards
-- Follow PEP 8 style guide
-- Include docstrings for all functions
-- Write unit tests for new features
-- Update documentation accordingly
+
+* Follow PEP 8 style guidelines
+* Include clear docstrings for all functions and classes
+* Maintain modular and readable code structure
+* Write unit tests for new features
+* Ensure alignment with the defined project folder structure
+* Update documentation where necessary
+
+---
+
+### Review Process
+
+* All PRs will be reviewed by the core team
+* Feedback or requested changes must be addressed promptly
+* Approved contributions will be merged after validation
+
+---
+
+This version enforces discipline, improves collaboration quality, and aligns well with professional open-source standards.
+
 
 ##  License
 
@@ -237,11 +281,6 @@ This project is licensed under the North Eastern Hill University License - see t
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWs3eWFjbWJ5eHpuYXNsMDRrbG4yeGNld2puMzFhbWF1YjhxdjRiNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mFwdQ1MU5VVwsN38vm/giphy.gif" > 
 
-##  Show Your Support
-
-If you find this project helpful, please give it a ⭐️ on GitHub!
-
----
 
 **Happy Quantum Coding!** 🎉
 
