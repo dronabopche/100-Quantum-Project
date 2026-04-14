@@ -1,7 +1,7 @@
 # Quantum Computing Project Suite
 
 *A comprehensive collection of 100 quantum computing implementations from beginner to expert level*
-![Quantum Imagae](https://github.com/dronabopche/100-Quantum-Project/blob/main/00_Resources/QUANTUM.jpg)
+![Quantum Imagae](https://github.com/dronabopche/100-Quantum-Project/00_Resources/100-Quantum-Book.PNG)
 ![Quantum Computing](https://img.shields.io/badge/Quantum-Computing-yellow)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-yellow)
 ![Levels](https://img.shields.io/badge/Levels-Beginner%20to%20Expert-yellow)
@@ -278,8 +278,6 @@ This version enforces discipline, improves collaboration quality, and aligns wel
 ##  License
 
 This project is licensed under the North Eastern Hill University License - see the [LICENSE](LICENSE) file for details.
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJ6bmt5amx0Ym1zeW85bHl0YTNtZml2MTFsZWRldXB4YmxwbndoMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mRyfscDuCGvt4JRoS7/giphy.gif" > 
 
 
 **Happy Quantum Coding!** 
